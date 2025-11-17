@@ -15,11 +15,11 @@ JavaDoc comments begin with:
  * This is a JavaDoc comment.
  */
 ```
-Project Overview
+# Project Overview
 
-This project contains three Java classes:
+# # This project contains three Java classes:
 
-Person – represents a person with a name
+# # # Person – represents a person with a name
 
 Student – extends Person to show inheritance
 
