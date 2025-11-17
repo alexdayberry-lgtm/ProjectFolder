@@ -17,9 +17,9 @@ JavaDoc comments begin with:
 ```
 # Project Overview
 
-# # This project contains three Java classes:
+## This project contains three Java classes:
 
-# # # Person – represents a person with a name
+Person – represents a person with a name
 
 Student – extends Person to show inheritance
 
@@ -27,7 +27,7 @@ Main – runs the program and demonstrates functionality
 
 Each class includes properly formatted JavaDoc comments for educational purposes. 
 
-How JavaDocs Were Generated
+# How JavaDocs Were Generated
 
 Opened the project in IntelliJ IDEA
 
@@ -40,7 +40,7 @@ Set the Output Directory to:
 ProjectFolder/docs
 
 
-Selected entire project as the scope
+### Selected entire project as the scope
 
 Checked -author and -version options
 
