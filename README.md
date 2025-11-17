@@ -50,4 +50,4 @@ The generated HTML files are located inside the docs folder and hosted using Git
 
 avaDoc Website (Hosted with GitHub Pages)
 
-Click the link below to view the full JavaDoc documentation website: 
+Click the link below to view the full JavaDoc documentation website: https://alexdayberry-lgtm.github.io/ProjectFolder/package-summary.html 
